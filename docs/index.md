@@ -6,4 +6,4 @@
 
 - Machines
 - [Adder](adder.md)
-- [Etching Machine]()
+- [Etching Machine](etching_machine.md)
