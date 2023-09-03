@@ -1,8 +1,9 @@
 # Welcome
 
-## This is the wiki of the minecraft mod "Forgress Through Skies"
+## This is the wiki of the minecraft mod "Progress Through Skies"
 
 ## Contents
 
 - Machines
-  - [Adder](adder.md)
+- [Adder](adder.md)
+- [Etching Machine]()
